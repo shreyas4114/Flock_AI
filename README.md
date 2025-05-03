@@ -23,7 +23,7 @@ A full-stack collaborative wishlist manager where users can sign up, create shar
 
 ## ⚙️ Setup Instructions
 
-Clone the backend repository:
+Clone the repository:
    ```bash
    git clone https://github.com/shreyas4114/Flock_AI
    cd Flock_AI
