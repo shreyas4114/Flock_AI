@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'http://localhost:5000/api', // Your backend URL
+  baseURL: 'https://wishlistapp-3pck.onrender.com/api', // Your backend URL
   timeout: 5000, // 5 second timeout
 });
 
