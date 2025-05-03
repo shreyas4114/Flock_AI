@@ -94,11 +94,11 @@ Clone the repository:
 
 ## ✅ Core Features
 
-- User Sign Up / Login (JWT-based) (NOT Mock, actual auth functionality)
+- User Sign Up / Login (JWT-based) (NOT Mocked, actual auth functionality)
 - Create and manage multiple wishlists
 - Add, edit, delete products with name, image URL, and price
 - Show the user who added each product
-- Invite collaborators to wishlists (mocked for now)
+- Invite collaborators to wishlists (Implemented)
 - Fully responsive design
 
 ---
