@@ -34,9 +34,19 @@ A full-stack collaborative wishlist manager where users can sign up, create shar
 ![image](https://github.com/user-attachments/assets/fbbb3eee-d327-4ec0-8bfe-33c8dffdee4e)
 
 3. Invite other members to your wishlist (Actually Implemented)
+   
    provide email address of other signed-up users to invite
 
 ![image](https://github.com/user-attachments/assets/f2ae25a7-3bd2-451a-af89-7055ff999540)
+
+4. Add products into the wishlist
+   
+![image](https://github.com/user-attachments/assets/16bcfc55-afe0-4f9a-a0a4-d8a99c9b11ff)
+
+5. Update or delete a product
+
+![image](https://github.com/user-attachments/assets/404e8b91-683b-4bf1-a7a7-a763956ac25f)
+
 
 
 ## ⚙️ Setup Instructions
