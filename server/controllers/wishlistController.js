@@ -19,6 +19,11 @@ exports.createWishlist = async (req, res) => {
   res.json(wishlist);
 };
 
+exports.getWishlist = async (req, res) => {
+  const wishlist = await Wishlist.findById(req.params.id);
+  res.json(wishlist);
+};
+
 exports.updateWishlist = async (req, res) => {
   const wishlist = await Wishlist.findByIdAndUpdate(
     req.params.id,
