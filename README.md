@@ -21,6 +21,24 @@ A full-stack collaborative wishlist manager where users can sign up, create shar
 
 ---
 
+## ScreenShots
+
+1. Signup and login functionality (Actually implemented)
+
+![image](https://github.com/user-attachments/assets/7bc678c1-d146-4b1b-954c-d2e010c34cca)
+
+![image](https://github.com/user-attachments/assets/4beba157-abaf-4ca3-87bc-2beee4e1aa13)
+
+2. Dashboard
+
+![image](https://github.com/user-attachments/assets/fbbb3eee-d327-4ec0-8bfe-33c8dffdee4e)
+
+3. Invite other members to your wishlist (Actually Implemented)
+   provide email address of other signed-up users to invite
+
+![image](https://github.com/user-attachments/assets/f2ae25a7-3bd2-451a-af89-7055ff999540)
+
+
 ## ⚙️ Setup Instructions
 
 Clone the repository:
